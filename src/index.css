@@ -1,0 +1,17 @@
+.card{
+    border: 1px solid rgb(153, 145, 145);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(37, 36, 36, 0.342);
+    padding: 10px;
+    margin:5px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+
+}
+.card-img{
+    max-width: 90%;
+    height: auto;
+    border-radius: 50%;
+}
+.h2X 
