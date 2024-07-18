@@ -11,3 +11,14 @@ external style sheet can lead to naming conflict
 especially when you are working on a large web application 
  mofdules avoid naming conflict 
  you csan justy give a specifi  a module name
+
+
+ inline styling : inline styling prevent global styling
+ itrevents issi=ues with class name
+  but it can be increasinling not maintainable in large application 
+  it reduces redability of large components and css
+
+
+   when writing syles within curly braces (jsx) you have to use camel case writing 
+   no dash
+   
