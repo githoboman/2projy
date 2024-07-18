@@ -1,4 +1,6 @@
-.card{
+
+/* card component style */
+/*.card{
     border: 1px solid rgb(153, 145, 145);
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(37, 36, 36, 0.342);
@@ -18,7 +20,14 @@
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
 
+}*/
 
-    
 
+.clicky{
+    background-color: rgba(74, 204, 191, 0.932);
+    color: aliceblue;
+    border-radius: 5px;
+    border: none;
+    padding:  10px 20px;
+    cursor:pointer;
 }

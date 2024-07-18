@@ -5,3 +5,8 @@ you can alwaYS REUSE THE CARD COM[ONENT
 //exterl css
 inline css
 module ways of addind css to react
+you can use external style heet to add global styleto your web applicstion
+
+external style sheet can lead to naming conflict 
+especially when you are working on a large web application 
+ 
