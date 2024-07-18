@@ -21,4 +21,16 @@ especially when you are working on a large web application
 
    when writing syles within curly braces (jsx) you have to use camel case writing 
    no dash
+
+   props: props short for property are shared read only components
+   a parent prop component can send daqta to a child component
+   <component key=value/>
+   you send te child component key valu pairs
+
+
+   with props you can send a child component individual values
+
+
+   when we send a key value to a component the are all store in a props object
+   
    
