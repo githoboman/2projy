@@ -1,0 +1,7 @@
+add css u arebto use index . css
+you can alwaYS REUSE THE CARD COM[ONENT
+]
+
+//exterl css
+inline css
+module ways of addind css to react
