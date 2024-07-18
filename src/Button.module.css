@@ -1,0 +1,8 @@
+.clicky{
+    background-color: rgba(74, 204, 191, 0.932);
+    color: aliceblue;
+    border-radius: 5px;
+    border: none;
+    padding:  10px 20px;
+    cursor:pointer;
+}
