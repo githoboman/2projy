@@ -31,6 +31,12 @@ especially when you are working on a large web application
    with props you can send a child component individual values
 
 
+   prop type (a mechmism) is the one who makwe sure the passed valued is of the correct data type
+
+
    when we send a key value to a component the are all store in a props object
+
+   it is good practice to accept prop types when you are accepting props
+   
    
    
