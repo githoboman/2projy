@@ -4,6 +4,8 @@ import Button from "./components/Button.jsx"
 import Student from "./components/Student.jsx"
 
 function App() {
+
+
   return (
     <>
       <Button />
@@ -17,5 +19,9 @@ function App() {
     </>
   );
 }
+
+/* clean code props looping */
+
+
 
 export default App;

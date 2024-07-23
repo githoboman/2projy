@@ -26,7 +26,6 @@ Student.propTypes = {
     name : PropTypes.string,
     age :PropTypes.number,
     Student :PropTypes.string,
-
 }
 
 Student.defaultProps = {
@@ -34,5 +33,13 @@ Student.defaultProps = {
     age : [3],
     Student : "no",
   }
+
+  /*  conditional rendering  in react  */
+  
+
+  
+
+
+
 export default Student 
 /* props is a giong to be a javascript object */
