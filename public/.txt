@@ -40,3 +40,15 @@ especially when you are working on a large web application
    
    
    
+
+   /* conditional rendering/*
+   /* if(props.isLoggedIn){
+    return <h2>welcome {props.username}</h2>
+
+ it is not a must to use an else statement cause itbis nnotbexplicit or that complex
+if only use return i we will get the same results
+cause return also means exit 
+else{
+    return <h2>please log in to continue</h2>
+}  */
+   

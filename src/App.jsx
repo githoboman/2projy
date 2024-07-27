@@ -1,7 +1,8 @@
 /* eslint-disable no-unused-vars */
-/* import Card from './Card.jsx' */
+ import Card from './Card.jsx' 
 import Button from "./components/Button.jsx"
 import Student from "./components/Student.jsx"
+import UserGreeting from './components/UserGreeting.jsx';
 
 function App() {
 
@@ -15,7 +16,8 @@ function App() {
       <Student name = 'sandy' age = {27 } Student = "true"></Student>
       <Student/>
       <Student/>
-      {/* <Card></Card> */}
+      <Card></Card> 
+      <UserGreeting isLoggedIn = {true}  username = "BroCode" />
     </>
   );
 }
