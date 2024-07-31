@@ -3,6 +3,7 @@
 import Button from "./components/Button.jsx"
 import Student from "./components/Student.jsx"
 import UserGreeting from './components/UserGreeting.jsx';
+import List from './List.jsx'
 
 function App() {
 
@@ -15,7 +16,7 @@ function App() {
       <Student  name = 'squirdward' age = {50}  Student = "no"></Student>
       <Student name = 'sandy' age = {27 } Student = "true"></Student>
       <Student/>
-      <Student/>
+      <List/>
       <Card></Card> 
       <UserGreeting isLoggedIn = {true}  username = "BroCode" />
     </>
