@@ -10,6 +10,7 @@ function App() {
 
   return (
     <>
+    
       <Button />
       <Student name = "Spongebob" age = {30 } Student="true"/>
       <Student name = 'patrick' age = {42}  Student = "no"></Student>
