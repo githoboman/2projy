@@ -9,7 +9,8 @@ function List() {
         {id:5, name:"pineapple",calories:37}];
 
 
-    const ListItems = fruits.map(fruits => <li>{fruits.name}</li>)
+    const ListItems = fruits.map(fruits => <li key={fruits.id}>{fruits.name}</li>)
+    /* react will like that we use the key item just so it can keep gtrack of it been inserted or removed  */
     
    /*  return(fruits); */
    return(<ol>{ListItems}</ol>)
